@@ -1,0 +1,2 @@
+Hilf mir bitte mein Projekt zuplanen das Projekt soll in docker Containern laufen. und über eine docker-compose.yml gestartet werden kann. Der Server
+ich möchte eine Personal-Website erstellen. wo es eine Projekt unterseite geben wo man dann programmen die dateien runterladen kann oder bei webapps zur webapp(jede webapps soll ihren eigen Container bekommen) weitergeleitet wird. 
