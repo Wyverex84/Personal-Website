@@ -1,0 +1,3 @@
+Ich möchte einen Benutzerdefinierten Copilot Chat Modi erstellen. wie mache ich das? 
+Der Modi soll Mir bei der Planung von Projekten helfen. 
+der modi soll mir ein Beispiel Uml diagramm mit der copilot chat erweiterung mermaid erstellen.
